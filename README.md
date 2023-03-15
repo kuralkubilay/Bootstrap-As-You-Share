@@ -4,4 +4,4 @@
 
 <h4>Designed with Html5&Css3&Bootstrap</h4>
 
-![banner resmi](asyoushare.gif.gif)
+![banner resmi](Asyoushare.gif)
